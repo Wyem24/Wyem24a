@@ -1,0 +1,67 @@
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e8/Campus_Kedge_BS_%C3%A0_Bordeaux.jpg);
+}
+
+img {
+  margin-left: 10px;
+    margin-top: 15px;
+}
+
+h1 {
+  font-size: 50px;
+  color: blue;
+  margin-left: 10px;
+  text-align: center;
+  text-shadow: black;
+}
+
+
+h2 {
+  font-size: 25px;
+  color: black;
+  border: 2px solid Black;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 25px;
+  margin-left: 10px;
+}
+p {
+  font-size: 35px;
+}
+.contact.details {
+  color: blue;
+
+}
+
+ol {
+  margin-left: 10px;
+}
+
+li {
+  margin-left: 555px;
+  text-align: left;
+}
+
+.rs {
+  color: black;
+}
+
+img {
+  width: 230px;
+  border-radius: 115px;
+
+}
+
+.souligner {
+  border-bottom: 1px solid orange;
+}
+
+.boite{
+  font-size: 50px;
+  color: black;
+  border-bottom: 2px solid violet;
+}
